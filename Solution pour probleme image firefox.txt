@@ -1,0 +1,2 @@
+1.URL dans firefox  : about:config
+2. privacy.file_unique_origin passer a false
