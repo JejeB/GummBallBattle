@@ -5,8 +5,8 @@ class GameList {
   }
 
   chooseNextGame(players){
-
-    switch (int(random(1,2))) {
+    var numberOfGame = 2
+    switch (int(random(0,numberOfGame))) {
       case 0:
           var playerGame
           playerGame=[]
