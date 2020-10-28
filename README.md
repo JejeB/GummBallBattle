@@ -8,4 +8,4 @@ To start the project lauch index.html
 The game is a compilation of minigame, each mini game can have 2 to 8 players and all players have only two control : left and right.
 
 The porpose of these project is that anybody can develope his own minigame and add to the game.
-You can dev your game by using these project, but it will be easyer when the Dev guide will be upload (steel in creation)
+You can dev your game by using these project look the [wiki](https://github.com/JejeB/GummBallBattle/wiki) to have more information.
